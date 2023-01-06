@@ -11,6 +11,7 @@ This code generates terrain in Unity 3D using simplex noise. The generated terra
 ![Customization Sliders](readme_resources/FINAL_SLIDER_GIF.gif)
 
 -  Explore: Use a playerObject to traverse the terrain
+
 ![Player Walking in Terrain](readme_resources/FINAL_WALK_GIF.gif)
 
 
