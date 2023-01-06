@@ -6,9 +6,9 @@ This code generates terrain in Unity 3D using simplex noise. The generated terra
 
 ![Player Walking in Terrain](readme_resources/FINAL_WALK_GIF.gif)
 -    Easy to use: Simply drop the script onto a game object and specify the parameters in the inspector.
-![Different Types of Terrain](https://imgur.com/a/pkBXa37)
+![Different Types of Terrain](readme_resources/FINAL_JUMP_GIF.gif)
 -   Customizable: Modify the terrain size, height, and appearance by adjusting the script parameters.
-![Customization Sliders](https://imgur.com/a/AYmJRYH)
+![Customization Sliders](readme_resources/FINAL_SLIDER_GIF.gif)
 -   Flexible: Use the generated terrain as a standalone object, or incorporate it into larger projects.
 
 ## Getting Started
