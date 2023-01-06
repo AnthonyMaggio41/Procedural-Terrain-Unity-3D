@@ -1,15 +1,16 @@
 # Procedural Terrain Generator
 
-This code generates terrain in Unity 3D using simplex noise. The generated terrain can be used in a variety of applications, including games, simulations, and visualizations.
+This code generates terrain in Unity 3D using simplex noise. The generated terrain can be used in a variety of applications, including games, simulations, and visualizations. New terrain is regenerated on each launch and can be futher customized with (slider things??)
 
 ## Features
 
-![Player Walking in Terrain](readme_resources/FINAL_WALK_GIF.gif)
--    Easy to use: Simply drop the script onto a game object and specify the parameters in the inspector.
+Create: Display an infinite combination of generations
 ![Different Types of Terrain](readme_resources/FINAL_JUMP_GIF.gif)
--   Customizable: Modify the terrain size, height, and appearance by adjusting the script parameters.
+Customize: Adjust the levels of many attributes to create variety
 ![Customization Sliders](readme_resources/FINAL_SLIDER_GIF.gif)
--   Flexible: Use the generated terrain as a standalone object, or incorporate it into larger projects.
+Explore: Use a playerObject to traverse the terrain
+![Player Walking in Terrain](readme_resources/FINAL_WALK_GIF.gif)
+
 
 ## Getting Started
 
