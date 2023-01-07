@@ -1,6 +1,6 @@
 # Procedural Terrain Generator
 
-This code generates terrain in Unity 3D using simplex noise. The generated terrain can be used in a variety of applications, including games, simulations, and visualizations. New terrain is regenerated on each launch and can be futher customized with (slider things??)
+This code generates terrain in Unity 3D using simplex noise. The generated terrain can be used in a variety of applications, including games, simulations, and visualizations. New terrain is regenerated on each launch and can be futher customized with the slider bars.
 
 ## Features
 
