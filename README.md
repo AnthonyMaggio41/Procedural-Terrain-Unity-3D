@@ -37,6 +37,7 @@ The following parameters can be adjusted to customize the generated terrain:
 ## Examples
 
 ![Main Code Loop](readme_resources/Capture.PNG)
+
 This code generates terrain using Perlin noise in the Unity 3D engine. The code uses a nested loop to iterate through each point in the terrain's height map, and applies Perlin noise to each point using a series of octaves.
 
 The outer loop iterates through the x and y coordinates of the height map. The inner loop iterates through the octaves, using each octave to add noise to the current point in the height map.
