@@ -4,14 +4,14 @@ This code generates terrain in Unity 3D using simplex noise. The generated terra
 
 ## Features
 
--  Create: Display an infinite combination of generations
--  ![Different Types of Terrain](readme_resources/FINAL_JUMP_GIF.gif)
+  **Create**: Display an infinite combination of generations
+  ![Different Types of Terrain](readme_resources/FINAL_JUMP_GIF.gif)
 
--  Customize: Adjust the levels of many attributes to create variety
--  ![Customization Sliders](readme_resources/FINAL_SLIDER_GIF.gif)
+  **Customize**: Adjust the levels of many attributes to create variety
+  ![Customization Sliders](readme_resources/FINAL_SLIDER_GIF.gif)
 
--  Explore: Use a playerObject to traverse the terrain
--  ![Player Walking in Terrain](readme_resources/FINAL_WALK_GIF.gif)
+  **Explore**: Use a playerObject to traverse the terrain
+  ![Player Walking in Terrain](readme_resources/FINAL_WALK_GIF.gif)
 
 
 ## Getting Started
