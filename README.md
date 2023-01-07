@@ -38,7 +38,7 @@ The following parameters can be adjusted to customize the generated terrain:
 
 Here are a few examples of how terrain is generated using the script:
 
-![Main Code Loop](readme_resources/Capture.png)
+![Main Code Loop](readme_resources/Capture.PNG)
 
 
 ## Credits
