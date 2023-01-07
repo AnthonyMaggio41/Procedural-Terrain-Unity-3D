@@ -21,7 +21,7 @@ To use the terrain generator, follow these steps:
 
 1.  Drag the `TerrainGenerator` script onto a game object in your Unity scene.
 2.  In the inspector, modify the script parameters to customize the terrain.
-3.  Press the "Generate" button to create the terrain.
+3.  Press the "Play" button to create the terrain.
 
 ## Script Parameters
 
@@ -30,14 +30,9 @@ The following parameters can be adjusted to customize the generated terrain:
 -   **Terrain Size:** The size of the terrain in the X and Z dimensions.
 -   **Height Range:** The minimum and maximum height of the terrain.
 -   **Noise Scale:** The scale of the simplex noise used to generate the terrain.
--   **Seed:** The seed for the random number generator used to create the noise.
 -   **Material:** The material applied to the terrain.
 
-## Tips
 
--   Larger terrain sizes may take longer to generate.
--   A smaller noise scale will result in smoother terrain, while a larger scale will create more rugged terrain.
--   Changing the seed will create different terrain each time the script is run.
 
 ## Examples
 
